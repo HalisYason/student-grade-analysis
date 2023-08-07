@@ -1,10 +1,10 @@
 # student-grade-analysis
 
-pandas ile veri analizi
+data analysis with pandas
 
 
-# özellikler
-- csv dosya yükleyebilme
-- toplu ders notu analizi
-- sonuçlara göre grafik hazırlama
+# features
+- ability to upload csv files
+- collective lesson grade analysis
+- preparing graphics according to the results
 
